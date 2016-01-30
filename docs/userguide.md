@@ -4,7 +4,7 @@ title = "Kitematic"
 description = "Documentation that provides an overview of Kitematic and installation instructions"
 keywords = ["docker, documentation, about, technology, kitematic, gui"]
 [menu.main]
-identifier="smn_workw_kitematic"
+parent="smn_workw_kitematic"
 +++
 <![end-metadata]-->
 
