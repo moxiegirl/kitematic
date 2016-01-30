@@ -5,7 +5,7 @@ description = "Documentation that provides an overview of Kitematic and installa
 keywords = ["docker, documentation, about, technology, kitematic,  gui"]
 [menu.main]
 identifier="smn_workw_kitematic"
-weight=2
+weight=-84
 +++
 <![end-metadata]-->
 
