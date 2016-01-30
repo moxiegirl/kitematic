@@ -1,16 +1,14 @@
 <!--[metadata]>
 +++
-title = "Kitematic User Guide: Intro & Overview"
+title = "Kitematic
 description = "Documentation that provides an overview of Kitematic and installation instructions"
 keywords = ["docker, documentation, about, technology, kitematic, gui"]
 [menu.main]
-parent="smn_workw_kitematic"
+identifier="smn_workw_kitematic"
 +++
 <![end-metadata]-->
 
 # Kitematic user guide
-
-## Overview
 
 Kitematic is an open source project built to simplify and streamline using
 Docker on a Mac or Windows (coming soon) PC. Kitematic automates the Docker
